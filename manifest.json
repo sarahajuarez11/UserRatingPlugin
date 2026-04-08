@@ -1,0 +1,9 @@
+{
+  "name": "Mobile User Rating",
+  "guid": "d2b6c1e0-8c1a-4b1c-9c8e-123456789abc",
+  "version": "1.0.0",
+  "targetAbi": "10.11.0.0",
+  "description": "Mobile-friendly rating plugin with API and file transformation support",
+  "author": "Custom Build",
+  "category": "General"
+}
