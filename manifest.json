@@ -7,7 +7,7 @@
   "ProjectUrl": "https://github.com/sarahajuarez11/UserRatingPlugin",
   "AssemblyFileName": "Jellyfin.Plugin.MobileUserRating.dll",
   "ReleaseDate": "2026-04-08",
-  "DownloadUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.0.0/Jellyfin.Plugin.MobileUserRating.dll"
+  "DownloadUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.0.0/Jellyfin.Plugin.MobileUserRating.dll",
   "MinJellyfinVersion": "10.11.0",
   "MaxJellyfinVersion": "10.11.6"
 }
