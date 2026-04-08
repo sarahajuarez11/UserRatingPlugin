@@ -1,14 +1,17 @@
 {
-  "Name": "UserRatingPlugin",
-  "Id": "UserRatingPlugin",
-  "Description": "Adds user rating functionality.",
-  "Version": "1.0.0",
-  "ProviderName": "sjz",
-  "TargetApplication": "Jellyfin",
-  "TargetVersion": "10.11.6",
-  "ProjectUrl": "https://github.com/sarahajuarez11/UserRatingPlugin",
-  "AssemblyFileName": "Jellyfin.Plugin.MobileUserRating.dll",
-  "ReleaseDate": "2026-04-08",
-  "DownloadUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.0.0/MobileUserRating.zip",
-  "RequireRestart": true
+  "guid": "86284cf7-0e05-492e-8c8b-9ea8e1e4721c",
+  "name": "UserRatingPlugin",
+  "overview": "Adds user rating functionality",
+  "description": "Adds user rating functionality.",
+  "owner": "sjz",
+  "category": "MoviesAndShows",
+  "versions": [
+              {
+          "version": "1.0.0",
+          "changelog" "initial",
+          "targetAbi": "10.11.6.0",
+          "sourceUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.0.0/MobileUserRating.zip",
+          "checksum" : "9F68A4EDB186256B418F7874781DA69E",
+          "timestamp": "2026-01-08T17:15:00"
+              }
 }
