@@ -2,7 +2,7 @@
   "Name": "UserRatingPlugin",
   "Id": "UserRatingPlugin",
   "Description": "Adds user rating functionality.",
-  "Version": "1.0.0",
+  "Version": "v1.0.0",
   "ProviderName": "sjz",
   "ProjectUrl": "https://github.com/sarahajuarez11/UserRatingPlugin",
   "AssemblyFileName": "Jellyfin.Plugin.MobileUserRating.dll",
