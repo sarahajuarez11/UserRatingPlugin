@@ -6,7 +6,6 @@
     "overview": "Rating plugin",
     "owner": "K3ntas, made worse by sjz",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/K3ntas/jellyfin-plugin-ratings/main/images/logo.png",
     "versions": [
       {
         "version": "1.0.0.0",
