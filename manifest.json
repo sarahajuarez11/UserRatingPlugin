@@ -7,12 +7,20 @@
     "owner": "K3ntas",
     "category": "Metadata",
     "versions": [
-       {
+      {
+        "version": "1.1.1.1",
+        "changelog": "changing position of rating",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.1.1.1/Jellyfin.Plugin.Ratings.zip",
+        "checksum": "C532E499C3F3CBF08FC8B8025013FDA0",
+        "timestamp": "2026-04-10T22:30:00Z"
+      },
+      {
         "version": "1.1.1.0",
         "changelog": "latest media as header button, removed ratingbuttonscontainer",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.1.1.0/Jellyfin.Plugin.Ratings.zip",
-        "checksum": "59816542E7DDF463BD1C82DEDB831B25",
+        "checksum": "D578C64BB36866E3577400A7EDFA1C57",
         "timestamp": "2026-04-10T22:30:00Z"
       },
       {
