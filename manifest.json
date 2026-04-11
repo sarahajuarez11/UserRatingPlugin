@@ -7,12 +7,20 @@
     "owner": "K3ntas",
     "category": "Metadata",
     "versions": [
+       {
+        "version": "1.1.1.0",
+        "changelog": "latest media as header button, removed ratingbuttonscontainer",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.1.1.0/Jellyfin.Plugin.Ratings.zip",
+        "checksum": "9B27497987DF85CC7092693014F80E4E",
+        "timestamp": "2026-04-10T22:30:00Z"
+      },
       {
         "version": "1.1.0.0",
         "changelog": "media management as header button",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/sarahajuarez11/UserRatingPlugin/releases/download/v1.1.0.0/Jellyfin.Plugin.Ratings.zip",
-        "checksum": "FFC76E4E97D13B6E4FD6F52927BFFB4E",
+        "checksum": "B52BC63E98986C20823C8961DD8CBF6A",
         "timestamp": "2026-04-07T22:30:00Z"
       },
       {
